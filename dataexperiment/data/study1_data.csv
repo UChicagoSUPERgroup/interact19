@@ -1,0 +1,356 @@
+Eating 1,Eating 2,Eating 3,Eating 4,Eating 5,Old 1,Old 2,Old 3,Old 4,Old 5,Nightstand 1,Nightstand 2,Nightstand 3,Nightstand 4,Nightstand 5,Crossroad 1,Crossroad 2,Crossroad 3,Crossroad 4,Crossroad 5
+food 111,horse 78,food 144,food 129,food 81,old 74,boat 117,old 94,look 67,phone 143,bed 105,bed 112,bed 103,nightstand 93,bed 90,road 87,track 63,road 85,sign 89,road 84
+person 64,eating 69,person 80,eating 67,eating 76,paint 46,old 67,photo 71,old 66,old 91,nightstand 93,nightstand 93,nightstand 89,table 75,nightstand 80,stop 44,road 61,crossroad 50,street 83,crossroad 44
+eating 63,licking 61,eating 63,person 38,cake 57,look 38,paint 43,white 58,room 37,technology 25,lamp 56,table 45,lamp 59,bed 60,stand 43,street 41,train 57,stop 44,road 62,light 42
+table 44,food 46,mouth 62,kitchen 30,picture 34,clock 34,look 38,black 57,modern 35,cell 25,table 44,lamp 42,next 47,bedroom 30,table 28,sign 36,crossroad 52,sign 41,crossroad 56,street 40
+plate 39,animal 34,plate 52,plate 23,plate 33,door 29,time 31,picture 47,new 35,model 23,small 43,clock 29,table 43,dining 29,next 27,crossroad 32,cro 27,street 32,cro 22,traffic 39
+mouth 28,block 31,table 44,one 22,fork 32,time 27,water 18,man 28,everything 22,screen 18,side 31,small 28,small 43,restaurant 28,tv 25,cro 25,picture 17,cro 24,picture 17,direction 25
+fork 28,salt 28,putting 34,mouth 21,eat 26,peeling 27,long 13,style 26,nothing 20,new 18,next 26,next 19,book 33,photo 25,picture 24,intersect 19,rail 15,intersection 23,image 17,cro 25
+sitting 26,mouth 28,hand 22,preparing 19,one 23,rust 19,rust 12,color 25,picture 17,older 16,stand 22,phone 17,object 14,room 21,room 23,traffic 18,image 15,direction 21,way 16,sign 19
+front 24,something 24,sitting 20,picture 18,person 20,broken 19,worn 12,image 23,clean 15,year 15,usually 21,object 15,usually 14,usually 18,bedroom 21,direction 15,street 13,meet 12,spring 14,intersect 13
+hand 20,eat 21,eat 19,eat 16,eaten 20,wood 16,image 12,clothing 20,image 15,used 14,night 15,stand 15,stand 13,picture 18,entertainment 17,right 10,railroad 13,intersect 11,direction 13,crossing 12
+utensil 20,tongue 21,woman 17,photo 16,piece 16,metal 16,new 11,time 19,style 14,picture 14,bedroom 11,room 13,left 12,next 16,usually 14,side 10,crossing 11,crossing 11,indicate 13,intersecting 10
+man 14,picture 16,restaurant 15,cooking 13,photo 16,object 16,object 10,grainy 18,furniture 12,left 13,picture 10,alarm 12,bedroom 12,chair 16,night 13,crossing 10,intersect 9,traffic 11,broadway 12,car 10
+using 12,lick 16,utensil 14,chef 13,mouth 12,long 12,rusty 10,ago 17,very 12,outdated 13,book 10,hotel 12,top 11,small 14,living 12,intersection 10,intersection 9,go 11,crossing 10,image 10
+photo 12,object 14,picture 13,putting 12,animal 11,very 12,peeling 9,look 16,thing 11,look 12,drawer 10,light 10,side 10,night 12,photo 12,image 9,car 8,picture 10,name 10,intersection 10
+putting 11,trough 11,up 13,someone 11,someone 11,worn 11,abandoned 9,very 15,photo 10,image 12,right 10,top 10,night 10,eating 10,center 11,perpendicular 9,photo 8,way 10,intersecting 8,way 9
+picture 10,donkey 8,front 12,image 9,concept 11,image 10,weathered 9,taken 14,wear 9,right 12,hold 8,usually 10,photo 10,stand 9,shelve 11,going 9,path 7,image 10,intersection 8,meet 9
+human 10,look 8,right 10,prepared 8,present 10,damaged 10,wood 9,long 13,concept 9,modern 11,leg 8,night 10,right 9,found 8,small 11,picture 8,together 6,clearly 9,photo 8,stop 9
+holding 9,chewing 8,fork 9,prepare 8,human 9,picture 9,photo 9,wearing 13,bed 8,photo 11,thing 7,item 10,furniture 9,furniture 8,television 9,intersecting 8,intersecting 6,intersecting 8,visible 7,signal 8
+up 9,photo 7,image 9,actually 8,image 7,rusted 9,used 8,person 11,anything 8,newer 10,item 7,bedroom 10,person 8,fireplace 8,image 9,line 7,line 6,side 8,actual 7,visible 7
+drink 8,brick 6,using 8,concept 8,utensil 7,item 9,down 8,age 10,appear 8,more 10,furniture 7,drawer 9,picture 8,typically 7,used 7,crosswalk 7,direction 6,right 8,perpendicular 7,point 7
+eat 8,consuming 6,picking 7,eaten 7,sitting 7,thing 8,broken 8,photograph 10,item 8,touch 10,left 6,height 8,hold 8,used 7,shelf 7,left 6,railway 6,corner 8,showing 7,going 7
+present 8,drinking 6,photo 7,human 7,slouse 6,damage 8,picture 7,quality 10,bright 8,one 9,used 6,found 8,piece 7,glass 7,look 6,cross 6,only 6,left 7,st 5,green 6
+chewing 8,concept 6,piece 6,counter 6,putting 6,age 7,faded 7,clothe 10,age 7,button 9,room 6,look 7,corner 7,image 7,contain 6,first 6,visible 5,cross 7,intersect 5,red 6
+group 8,out 5,biting 6,visible 6,prepared 5,indicate 7,appear 7,older 8,color 7,most 8,top 6,image 7,used 6,thing 5,item 6,straight 5,going 5,car 7,corner 5,coming 5
+full 7,form 5,chewing 6,restaurant 6,used 5,something 7,sign 7,worn 8,retro 7,style 8,image 6,furniture 7,room 6,only 5,furniture 6,car 5,coming 4,going 7,light 4,picture 5
+many 6,putting 5,human 6,only 6,ready 5,rusty 7,very 7,way 8,design 7,very 7,object 6,brown 7,height 6,lamp 5,object 5,vehicle 5,same 4,vehicle 6,building 4,shape 5
+several 5,eaten 4,spoon 5,front 6,consuming 5,color 6,rusted 7,indicate 7,sign 7,age 7,often 6,picture 6,surface 5,person 4,lamp 5,way 5,cross 4,come 6,meet 4,photo 5
+none 5,use 4,present 5,ready 5,actually 5,used 6,painting 6,year 7,decor 6,flip 7,seen 5,telephone 6,image 5,napkin 4,found 5,indicate 5,travel 4,travel 5,however 4,well 4
+glass 5,used 4,girl 5,preparation 5,napkin 4,wear 6,age 6,ty 7,white 6,iphone 7,piece 5,hold 6,reading 5,tablecloth 4,large 5,travel 5,merging 4,sidewalk 5,facing 4,clearly 4
+pick 5,ingesting 4,well 4,consuming 5,nobody 4,part 6,land 6,alway 6,object 6,today 7,placed 5,often 5,item 5,object 4,dvd 4,go 5,x 4,photo 5,indicating 4,make 4
+restaurant 5,am 4,drink 4,table 5,put 4,chipping 6,dirty 6,modern 6,good 6,ago 6,head 5,right 5,desk 5,sit 4,such 4,light 4,merge 4,opposite 4,actually 4,middle 4
+appear 5,way 4,holding 4,stove 5,probably 4,appear 6,color 6,fashion 6,chair 6,object 6,height 5,photo 5,typical 4,drawer 4,present 4,make 4,traffic 4,multiple 4,travel 3,line 4
+often 5,place 4,clearly 4,nothing 4,future 3,well 5,out 6,well 5,bedroom 6,smartphone 6,contain 5,person 4,the 4,look 4,top 4,pedestrian 4,very 4,seen 4,angle 3,facing 4
+chew 5,thing 4,someone 4,animal 4,bite 3,surface 5,well 5,short 5,newer 6,use 6,photo 5,reach 4,light 4,placed 4,area 4,middle 4,person 3,meeting 4,say 3,dark 4
+meal 5,water 4,example 4,look 4,next 3,away 5,suggest 5,past 5,fresh 5,thing 6,light 4,surface 4,sit 4,present 4,electronic 4,white 4,parallel 3,visible 4,present 3,go 4
+proces 5,think 4,look 4,present 4,table 3,seem 5,element 5,today 5,time 5,design 6,surface 4,piece 4,look 4,eat 4,thing 4,path 4,meet 3,first 4,taken 3,set 4
+dish 5,using 4,consuming 4,white 4,act 3,rotting 5,thing 5,dated 5,suggest 5,item 6,many 4,use 4,placed 4,area 4,appear 4,meet 4,vehicle 3,path 4,pole 3,left 3
+concept 5,only 4,even 4,anyone 4,thing 3,chipped 5,away 5,dres 5,older 5,time 5,example 4,place 4,put 4,mantle 4,none 4,photo 4,top 3,bottom 4,point 3,first 3
+together 4,nutrient 3,often 4,put 4,taking 3,concept 5,disrepair 5,hair 5,furnishing 5,longer 5,enough 4,thing 4,notice 4,many 4,hold 4,together 3,use 3,shape 4,dont 3,person 3
+take 4,definitely 3,good 4,actively 4,however 3,piece 4,apart 5,most 4,lighting 4,several 5,case 4,sitting 4,couple 4,large 4,typically 3,coming 3,come 3,person 3,enough 3,opposite 3
+bite 4,maybe 3,liquid 3,back 4,now 3,area 4,sitting 5,photography 4,nice 4,past 5,good 4,typical 3,sitting 4,food 4,purpose 3,running 3,run 3,angle 3,view 3,multiple 3
+put 4,liquid 3,used 3,facing 4,proces 3,weathered 4,lake 5,clear 4,aged 4,date 5,fact 3,same 3,brown 4,wine 3,several 3,multiple 3,made 3,making 3,signal 3,cross 3
+down 4,mineral 3,glass 3,yet 4,only 3,apart 4,left 4,era 4,nightstand 4,many 5,well 3,sit 3,typically 3,piece 3,located 3,clearly 3,+ 2,look 3,pointing 3,need 3
+image 4,hand 3,bite 3,consumed 3,soon 3,photo 4,rotting 4,appear 4,hotel 4,change 5,off 3,single 3,very 3,place 3,sometime 3,control 3,allow 2,more 3,represent 3,side 3
+place 4,seem 3,act 3,else 3,represent 3,make 4,older 4,now 4,glas 4,now 5,dresser 3,placed 3,same 3,contain 3,drawer 3,second 3,switch 2,pa 3,suggest 2,look 3
+taking 4,pony 3,dinner 3,used 3,order 2,suggest 4,aged 4,decade 4,damaged 4,only 5,holding 3,head 3,saw 3,smaller 3,surface 3,meeting 3,thu 2,turn 3,rather 2,vehicle 3
+gathered 4,example 3,actively 3,seen 3,well 2,wall 4,fading 4,typical 3,date 4,current 5,need 3,leg 3,similar 3,covered 3,sort 3,pa 3,contain 2,plu 3,saw 2,indicate 3
+time 3,case 3,dish 3,made 3,consumed 2,recently 4,seem 4,outfit 3,vintage 4,concept 5,shelve 3,notice 3,case 3,sleep 3,piece 3,checked 3,running 2,+ 3,need 2,even 3
+swallowing 3,present 3,contain 3,nobody 3,same 2,rough 4,something 4,especially 3,looking 4,person 4,bookshelf 3,common 3,few 3,typical 2,medium 3,ahead 3,separate 2,pavement 3,pedestrian 2,section 3
+least 3,part 3,actually 3,top 3,occur 2,pain 4,discolored 4,make 3,sleek 4,oldest 4,put 3,very 3,use 3,very 2,too 3,come 3,instead 2,south 2,am 2,continue 3
+placing 3,consume 3,left 2,act 3,something 2,happen 4,indicate 4,technology 3,light 3,wear 4,bookcase 3,present 3,wall 3,cloth 2,nothing 3,indication 3,rather 2,perpendicularly 2,give 2,travel 2
+checked 3,call 3,together 2,hand 3,surface 2,amount 4,chipped 4,something 3,ago 3,previou 4,reading 3,alway 3,place 3,clue 2,one 3,facing 3,angle 2,light 2,more 2,perpendicularly 2
+long 3,grazing 3,side 2,however 3,pie 2,falling 4,dry 4,faded 3,use 3,appear 4,clock 3,sleep 3,thing 3,such 2,rack 3,shape 3,middle 2,running 2,information 2,think 2
+dinner 3,image 3,clear 2,doing 3,actively 2,sign 4,wear 4,outdated 3,used 3,small 4,close 3,time 2,enough 3,nothing 2,put 3,move 3,well 2,symbol 2,up 2,together 2
+consuming 3,appear 3,eaten 2,then 3,placed 2,out 3,falling 4,camera 3,lamp 3,blackberry 4,wooden 3,lying 2,often 3,most 2,right 3,parallel 2,similar 2,place 2,look 2,flow 2
+looking 3,unsure 3,enjoyment 2,happen 3,edible 2,smooth 3,dried 4,sepium 3,relatively 3,early 4,brown 3,used 2,big 3,dresser 2,likely 3,spot 2,look 2,take 2,path 2,angle 2
+shaker 3,item 3,definitely 2,cook 3,chocolate 2,way 3,gras 4,suggest 3,something 3,far 4,alway 3,clearly 2,black 3,several 2,desk 3,opposite 2,count 2,same 2,one 2,allowed 2
+dining 3,gras 3,suggest 2,sitting 3,depicted 2,down 3,chipping 4,many 3,really 3,keyboard 4,normally 2,almost 2,read 2,setting 2,game 3,several 2,form 2,generally 2,seeing 2,say 2
+left 2,main 3,seen 2,going 3,indicate 2,background 3,item 4,dressed 3,up 3,well 3,time 2,radio 2,off 2,need 2,only 3,angle 2,fork 2,need 2,degree 2,indicated 2
+salt 2,human 3,surface 2,involf 3,visible 2,off 3,fresh 3,pictured 3,smooth 3,mobile 3,person 2,similar 2,such 2,home 2,console 3,more 2,therefore 2,example 2,think 2,control 2
+element 2,person 2,something 2,time 2,consume 2,cracked 3,person 3,uniform 3,kind 3,device 3,alarm 2,rectangular 2,pair 2,surface 2,person 2,crossed 2,first 2,second 2,box 2,making 2
+well 2,well 2,placed 2,room 2,first 2,frame 3,dent 3,back 3,outdated 3,even 3,short 2,double 2,most 2,located 2,short 2,photograph 2,many 2,straight 2,post 2,main 2
+liquid 2,consumed 2,grabbing 2,most 2,action 2,aged 3,up 3,bit 3,way 3,pad 3,single 2,clue 2,holding 2,display 2,most 2,present 2,definition 2,east 2,pictured 2,form 2
+lifting 2,i 2,taken 2,object 2,place 2,modern 3,longer 3,only 3,more 3,make 3,tall 2,function 2,get 2,rectangular 2,reach 2,judging 2,perpendicular 2,line 2,crosswalk 2,taken 2
+moment 2,take 2,indicate 2,stainles 2,area 2,lot 3,off 3,maybe 2,too 3,antenna 3,ye 2,due 2,suggest 2,hold 2,multiple 2,tell 2,close 2,forming 2,one-way 2,area 2
+nourishment 2,swallowing 2,least 2,lamp 2,ate 2,think 3,no 3,clearer 2,indicate 3,something 3,located 2,checked 2,again 2,alway 2,holding 2,west 2,right 2,form 2,lettering 2,second 2
+multiple 2,same 2,placing 2,equipment 2,definition 2,year 3,make 3,object 2,shiny 3,worn 3,same 2,wall 2,turn 2,white 2,beside 2,area 2,level 2,north 2,side 2,one 2
+clearly 2,clearly 2,set 2,clearly 2,untouched 2,aging 3,need 3,used 2,floor 3,type 3,sit 2,example 2,need 2,lot 2,arm 2,visible 2,not 2,too 2,x 2,color 2
+saw 2,seen 2,one 2,seem 2,missing 2,new 3,metal 3,tie 2,wall 3,lot 3,say 2,clock/radio 2,drawer 2,addition 2,need 2,walk 2,take 2,top 2,arrow 2,stoplight 2
+seem 2,good 2,action 2,something 2,object 2,design 3,decrepit 3,relatively 2,broken 3,checked 3,called 2,shared 2,is 2,one 2,placed 2,place 2,choose 2,west 2,indication 2,safely 2
+then 2,cant 2,place 2,placed 2,body 2,longer 2,painted 3,film 2,fixture 3,smaller 3,made 2,appear 2,well 2,scene 2,main 2,turn 2,go 2,area 2,identifying 2,many 2
+act 2,taste 2,taking 2,getting 2,living 2,fire 2,lot 3,clearly 2,contain 3,color 3,present 2,arm 2,and 2,had 2,bookshelf 2,definition 2,shape 2,checked 2,traffic 2,definition 2
+spoon 2,involved 2,actual 2,photograph 2,even 2,display 2,point 3,aged 2,crisp 3,key 3,smaller 2,contain 2,up 2,larger 2,part 2,completely 2,move 2,point 2,designated 2,perpendicular 2
+include 2,too 2,definition 2,diner 2,idea 2,faded 2,first 3,seem 2,condition 3,out 3,use 2,wooden 2,part 2,water 2,more 2,full 2,represent 2,many 2,above 2,driver 2
+addition 2,going 2,full 2,camera 2,contain 2,up 2,amount 3,say 2,paint 3,relative 3,such 2,easily 2,it 2,utensil 2,lot 2,+ 2,joining 1,definition 2,case 2,degree 2
+done 2,live 2,foreground 2,indicate 2,indication 2,made 2,many 3,certain 2,pretty 3,up 3,wall 2,one 2,resting 2,above 2,needed 2,signal 2,se 1,wait 2,going 2,direct 2
+right 2,placing 2,determined 2,place 2,touching 2,ago 2,anything 3,almost 2,only 3,anymore 3,first 2,end 2,only 2,enough 2,addition 2,front 2,evenly 1,degree 2,go 2,often 2
+consume 2,source 2,sign 2,anything 2,somebody 2,existed 2,beached 3,adult 2,metal 2,generation 3,place 2,going 2,checked 2,go 2,set 2,get 2,indicative 1,run 2,yellow 2,right 2
+action 2,necessarily 2,meat 2,actual 2,yet 2,determine 2,missing 3,more 2,clear 2,still 3,typically 2,still 2,directly 2,often 2,first 2,connecting 2,south 1,facing 2,fact 1,sidewalk 2
+cup 2,happening 2,swallowing 2,anywhere 2,serving 2,significant 2,while 3,tell 2,especially 2,side 3,getting 2,bedside 2,square 2,item 2,shelved 2,oncoming 2,part 1,good 2,order 1,x 2
+picking 2,usually 2,photograph 2,appear 2,fact 1,tattered 2,year 3,suit 2,recent 2,term 3,checked 2,desk 2,definition 2,height 2,space 2,parked 2,metaphorical-when 1,set 2,normally 1,pavement 2
+thu 2,licked 2,bringing 2,even 2,definitely 1,burn 2,now 3,hairstyle 2,damage 2,advanced 3,asleep 2,fact 1,then 2,not 2,qualify 2,section 1,flow 1,indicator 2,representation 1,showing 2
+pepper 2,taking 2,shape 2,out 2,portion 1,often 2,state 3,point 2,deterioration 2,cellular 3,bulky 2,left 1,appear 2,desk 2,side 2,signalling 1,light 1,parked 2,time 1,only 2
+even 2,anything 2,silverware 2,likely 2,element 1,disrepair 2,brown 3,tone 2,simple 2,showing 3,sleep 2,position 1,asleep 2,then 2,surrounded 2,enter 1,center 1,converge 2,allow 1,indicator 2
+actively 2,small 2,being 2,served 2,robot 1,bit 2,condition 3,period 2,surface 2,le 3,common 2,obviously 1,found 2,dinning 2,even 2,so 1,off 1,pointing 2,asked 1,pointing 2
+facing 2,common 2,having 1,pot 2,i 1,around 2,concept 3,commonly 2,few 2,newest 3,one 2,roughly 1,necessary 2,fit 2,reached 2,person 1,lane 1,rounded 2,clear 1,fact 1
+occurring 2,instead 2,typically 1,chair 2,happening 1,crack 2,fact 2,typically 2,am 2,represent 3,acces 2,floor 1,dark 2,dish 2,square 2,assuredly 1,focal 1,came 1,i 1,representation 1
+showing 2,background 2,once 1,left 1,off 1,person 2,clean 2,come 2,well 2,fact 2,big 2,i 1,far 2,foot 2,view 2,flow 1,horizontal 1,make 1,placement 1,far 1
+going 2,kind 2,beverage 1,fact 1,uneaten 1,sat 2,battered 2,standard 2,fashion 2,order 2,include 2,especially 1,good 2,salt 1,bookshelve 2,clear 1,nothing 1,typically 1,branching 1,south 1
+chair 2,get 2,tooth 1,order 1,such 1,abrupt 2,deteriorate 2,therefore 2,past 2,looking 2,wood 2,off 1,fit 2,tall 1,big 2,lead 1,moving 1,once 1,meaning 1,confirm 1
+being 2,cube 2,cutlery 1,normally 1,nothing 1,present 2,obviously 2,wear 2,somewhat 2,tech 2,only 2,peice 1,lying 1,time 1,good 2,a 1,lot 1,allow 1,driver 1,thu 1
+having 1,hint 2,light 1,first 1,purpose 1,mark 2,far 2,quite 2,brand 2,physical 2,actually 2,such 1,position 1,well 1,checked 2,designed 1,most 1,so 1,opposite 1,vice 1
+representation 1,gues 2,i 1,implied 1,moment 1,due 2,damage 2,subject 2,area 2,cellphone 2,believe 2,regular 1,definitely 1,alarm 1,include 2,moving 1,object 1,together 1,multiple 1,third 1
+beverage 1,colt 2,remember 1,preperatioon 1,eater 1,whatever 2,damaged 2,waistline 2,little 2,relatively 2,indicator 2,viewing 1,roughly 1,kept 1,go 2,symbol 1,ye 1,flow 1,conclude 1,lower 1
+placemat 1,drink 2,off 1,face 1,clue 1,missing 2,sat 2,notice 2,repair 2,instead 2,perfect 2,description 1,steady 1,short 1,left 1,camera 1,conflict 1,space 1,difficult 1,needed 1
+gather 1,having 1,inserted 1,proces 1,intend 1,peeled 2,seen 2,available 2,stand 2,damage 2,desk 2,multiple 1,center 1,lower 1,fact 1,begin 1,couple 1,clear 1,split 1,colliding 1
+clear 1,time 1,such 1,i 1,required 1,burned 2,exterior 2,new 2,current 2,no 2,position 1,draw 1,lower 1,necessity 1,order 1,start 1,predominant 1,assume 1,alway 1,designed 1
+remember 1,so 1,detect 1,center 1,evoke 1,enough 2,indicated 2,even 2,represented 2,seem 2,lying 1,higher 1,a 1,floor 1,otherwise 1,you 1,meeting 1,center 1,walk 1,lighting 1
+lower 1,tooth 1,unused 1,off 1,essential 1,subject 2,gone 2,grainines 2,however 2,seen 2,traditional 1,ordinary 1,needed 1,wrong 1,management 1,instead 1,split 1,land 1,cross 1,running 1
+exercise 1,confirm 1,nourishment 1,man 1,take 1,art 2,made 2,day 2,bathroom 2,surface 2,obviously 1,inch 1,multiple 1,accessory 1,very 1,test 1,note 1,lane 1,generally 1,walk 1
+plenty 1,resemble 1,symbol 1,purpose 1,very 1,gray 2,clue 2,styled 2,unsure 2,almost 2,roughly 1,holding 1,gadget 1,normal 1,personal 1,branch 1,physical 1,needed 1,built 1,spot 1
+most 1,off 1,begin 1,enjoyment 1,able 1,watch 2,relative 2,fuzzy 2,worn 2,basically 2,look 1,square 1,beside 1,clear 1,having 1,alway 1,occur 1,included 1,again 1,watch 1
+enjoyment 1,digested 1,circular 1,living 1,digested 1,get 2,cabin 2,showing 2,frosted 2,dirty 2,phone 1,instance 1,feature 1,independent 1,robot 1,same 1,further 1,coming 1,clearly 1,description 1
+mat 1,hourse 1,several 1,cupboard 1,suggest 1,tire 2,really 2,texture 2,stuff 2,replaced 2,cellphone 1,beside 1,clearly 1,glassware 1,well 1,generally 1,road-like 1,moving 1,seem 1,used 1
+infer 1,such 1,ingesting 1,nice 1,end 1,face 2,taken 2,young 2,wooden 2,assume 2,angle 1,feature 1,seem 1,packed 1,clock 1,check 1,something 1,action 1,seen 1,offscreen 1
+member 1,included 1,take 1,clothe 1,again 1,take 2,checked 2,human 2,probably 2,likely 2,them..they 1,storage 1,seen 1,reachable 1,placement 1,depending 1,say 1,cement 1,something 1,pathway 1
+occur 1,representation 1,dining 1,ingested 1,sat 1,clearly 2,weather 2,pant 2,tile 2,nokium 2,most 1,convenient 1,in 1,prism 1,a 1,able 1,am 1,spot 1,exist 1,several 1
+bowl 1,plan 1,occur 1,largest 1,alone 1,matter 2,repair 2,fact 1,showing 2,larger 2,drink 1,able 1,want 1,beside 1,device 1,pas 1,alongside 1,surest 1,sometime 1,regulating 1
+get 1,chance 1,same 1,setting 1,seem 1,somewhat 2,probably 2,er 1,updated 2,alway 2,multiple 1,angle 1,at 1,clearly 1,plenty 1,disappear 1,called 1,difficult 1,evidence 1,branch 1
+suggest 1,most 1,detail 1,generally 1,happening.no 1,too 2,shiny 2,left 1,crack 2,obsolete 2,instead 1,seen 1,sometime 1,same 1,regular 1,saw 1,directed 1,fourth 1,accept 1,vice-versa 1
+sit 1,diet 1,shining 1,fixing 1,case 1,checked 2,place 2,white/ 1,wood 2,hard 2,inch 1,ready 1,robot 1,make 1,viewing 1,keep 1,behavior 1,alway 1,pic 1,entirety 1
+let 1,foal 1,rather 1,no 1,sustenance 1,done 2,receded 2,fasion 1,feel 2,really 2,glas 1,something 1,confused 1,rather 1,different 1,allowed 1,indicating 1,thing 1,certain 1,alway 1
+again 1,creature 1,sit 1,depict 1,pic 1,tear 2,bed 2,jacket 1,flooring 2,especially 2,square 1,sometime 1,indicated 1,hod 1,nest 1,collision 1,originally 1,built 1,almost 1,lit 1
+face 1,lip 1,again 1,alone 1,taste 1,happened 2,run 2,no 1,based 2,therefore 2,note 1,turned 1,fashion 1,again 1,again 1,evidence 1,pedestrian 1,marking 1,indicated 1,same 1
+accompany 1,interested 1,saw 1,element 1,brown 1,style 2,body 2,assume 1,carpet 2,ancient 2,able 1,is 1,noticed 1,worst 1,product 1,am 1,word 1,again 1,orientation 1,generally 1
+ready 1,sitting 1,element 1,woman 1,indicated 1,rather 2,rotten 2,clasp 1,decade 2,thinner 2,sitting 1,rectanglular 1,example 1,saw 1,higher 1,indicated 1,none 1,disappear 1,called 1,pas 1
+.even 1,suggest 1,ready 1,single 1,counter 1,occur 2,looking 2,extremely 1,contemporary 2,first 2,end 1,called 1,making 1,something 1,resembling 1,choosing 1,distance 1,saw 1,rectangle 1,information 1
+sometime 1,floor 1,further 1,case 1,real 1,flaking 2,happen 2,wrinkle 1,mismmal 1,think 2,compared 1,making 1,rectangular 1,pic 1,glas 1,fashion 1,wheeled 1,curved 1,anywhere 1,pedestrian 1
+single 1,mostly 1,want 1,anybody 1,display 1,work 2,side 2,such 1,order 1,so 2,containing 1,near 1,middle 1,mealtime 1,speaker 1,expect 1,eachother 1,wet 1,join 1,option 1
+middle 1,alone 1,ingest 1,life 1,assume 1,usually 2,tear 2,date 1,typically 1,created 2,again 1,retire 1,include 1,exist 1,book 1,example 1,designated 1,pedestrian 1,main 1,viewed 1
+knife 1,element 1,robot 1,engaged 1,remain 1,change 2,identified 2,fresh 1,otherwise 1,broken 2,saw 1,likely 1,partially 1,maybe 1,storage 1,making 1,overlapping 1,surface 1,photograph 1,heading 1
+sustenance 1,want 1,engaged 1,recognize 1,smooth 1,even 2,wooden 2,additionally 1,the 1,earlier 2,recognized 1,middle 1,present 1,see 1,variety 1,indicat 1,started 1,head 1,count 1,keep 1
+sense 1,involve 1,flat 1,associated 1,require 1,condition 2,considerably 2,printed 1,definitely 1,available 2,tissue 1,keeping 1,placement 1,kind 1,kkep 1,placed 1,option 1,cover 1,stating 1,seem 1
+certain 1,plate 1,located 1,later 1,spongey 1,rusting 2,indicating 2,depict 1,person 1,pictured 2,sleeping 1,case 1,personally 1,wide 1,t.v 1,look 1,north 1,convey 1,line 1,seen 1
+located 1,thirsty 1,demonstrate 1,thu 1,none 1,once 1,main 2,spot 1,element 1,timeline 2,turned 1,center 1,somewhat 1,case 1,containing 1,join 1,more 1,paved 1,actualy 1,head 1
+sort 1,performed 1,involved 1,more 1,absent 1,starting 1,pretty 2,opposite 1,detail 1,electronic 2,them..one 1,starter 1,understand 1,part 1,information 1,east 1,type 1,carefully 1,understand 1,certain 1
+consumed 1,even 1,sometime 1,making 1,count 1,fresh 1,passage 2,higher 1,space 1,go 2,is 1,placement 1,glass 1,eatery 1,multus 1,distance 1,way 1,crossed 1,part 1,defined 1
+condiment 1,demonstrate 1,labeled 1,leaning 1,hold 1,together 1,had 2,several 1,i 1,keypad 2,steady 1,particular 1,due 1,catering 1,home 1,case 1,pa 1,anywhere 1,visual 1,connect 1
+making 1,absence 1,preparation 1,iron 1,organic 1,assume 1,decay 2,digital 1,resemble 1,contain 2,then 1,differentiate 1,judging 1,designed 1,high 1,center 1,plank 1,middle 1,90-degree 1,example 1
+appendage 1,placed 1,seated 1,carbonaceou 1,immediate 1,tricky 1,rusting 2,looser 1,undamaged 1,slide 2,24-36 1,acceptable 1,glas 1,glas 1,sleeping 1,believe 1,system 1,appearance 1,exactly 1,crosroad 1
+involved 1,say 1,his/her 1,say 1,took 1,fell 1,represent 2,high 1,model 1,large 2,ready 1,mostly 1,on 1,resting 1,modern 1,needed 1,west 1,collision 1,form 1,crossed 1
+individual 1,solid 1,solid 1,stacked 1,serve 1,stay 1,typical 1,shorter 1,decorated 1,progression 2,storing 1,possible.clock 1,head 1,therefore 1,decorative 1,forward 1,area 1,distance 1,tricky 1,up 1
+enjoying 1,reddish 1,kind 1,constitute 1,started 1,wrinkly 1,automatically 1,perhap 1,designed 1,half 2,something 1,flat 1,more 1,biggest 1,similar 1,painted 1,east 1,present 1,too 1,tree 1
+seated 1,intake 1,observation 1,steel 1,buy 1,junk 1,green 1,tip 1,lot 1,evolution 2,similar 1,more 1,reflective 1,low 1,den 1,form 1,straight 1,branch 1,type 1,straight 1
+getting 1,especially 1,masticate 1,customer 1,flat 1,setting 1,definitely 1,rather 1,most 1,progressed 2,making 1,store 1,tv 1,depicted 1,absence 1,north 1,carry 1,part 1,therefore 1,whitish 1
+animal 1,given 1,part 1,particular 1,type 1,generally 1,ragged 1,soldier 1,unused 1,get 2,sometime 1,household 1,therefore 1,needed 1,second 1,rather 1,set 1,eachother 1,mark 1,evident 1
+talking 1,understand 1,clue 1,warm 1,white 1,fixing 1,stranded 1,button-pocket 1,accurately 1,smart 2,near 1,reflective 1,overhead 1,placing 1,multitier 1,flat 1,walk 1,well 1,specifically 1,join 1
+look 1,conclusively 1,serve 1,heat 1,masticated 1,no 1,ago 1,pretty 1,bottom 1,somewhat 2,rectangular 1,way 1,clock/alarm 1,top 1,case 1,paved 1,point 1,park 1,only 1,distance 1
+case 1,head 1,said 1,clue 1,taken 1,again 1,man 1,marking 1,declaring 1,majority 2,up 1,few 1,comparing 1,use 1,wherte 1,taken 1,dont 1,formed 1,create 1,case 1
+raising 1,define 1,glas 1,tool 1,way 1,dent 1,dried-up 1,sharp 1,peeling 1,knowledge 2,double 1,long 1,mattres 1,size 1,occurring 1,next 1,already 1,tell 1,area 1,present 1
+hold 1,possible 1,option 1,mostly 1,therefore 1,sort 1,grow 1,old.the 1,opposite 1,consider 2,count 1,direction 1,bedtime 1,primarily 1,clue 1,destination 1,create 1,white 1,second 1,part 1
+line 1,type 1,resting 1,way 1,start 1,dirty 1,protected 1,sometime 1,classify 1,thicker 2,glass 1,needed 1,visible 1,bedtime 1,that 1,use 1,usually 1,forward 1,streetsign 1,forming 1
+focusing 1,cooling 1,more 1,head 1,anyone 1,placed 1,depicting 1,involve 1,moderinized 1,known 2,clue 1,additional 1,mirroring 1,square 1,general 1,open 1,place 1,start 1,given 1,versa 1
+them.the 1,mean 1,friend 1,fork 1,mark 1,arranged 1,date 1,general 1,several 1,feature 2,trait 1,standing 1,tight 1,visible 1,flat 1,away 1,locomotive 1,parallel 1,speak 1,controlled 1
+part 1,depicted 1,tell 1,define 1,available 1,constitute 1,coming 1,proven 1,matres 1,scratch 2,relaxing 1,size 1,conclude 1,wall 1,function 1,directly 1,timed 1,long 1,landscape 1,flat 1
+grabbing 1,indicate 1,white 1,really 1,give 1,considerable 1,assume 1,defect 1,interior 1,representation 1,easy 1,happening 1,automatically 1,dine 1,tell 1,set 1,allows 1,destination 1,kind 1,separated 1
+that 1,next 1,therefore 1,wait 1,consumption 1,newer 1,depict 1,century 1,weathering 1,despicted 1,flat 1,smaller 1,pillow 1,diameter 1,type 1,down 1,yard 1,open 1,poll 1,paved 1
+way 1,question 1,depicted 1,taken 1,checked 1,oldnes 1,most 1,nicer 1,animal 1,came 1,more 1,utilized 1,keep 1,purpose 1,biggest 1,scene 1,change 1,type 1,impossible 1,tell 1
+stomach 1,top 1,due 1,familiar 1,illustrate 1,complete 1,applied- 1,vest 1,note 1,observe 1,type 1,visible 1,discussed 1,context 1,call 1,point 1,found 1,square 1,determine 1,meeting 1
+taken 1,transfer 1,removing 1,placing 1,ont 1,deteriorating 1,leaving 1,history 1,feature 1,traditional 1,taken 1,useful 1,come 1,dinner 1,camera 1,think 1,however 1,down 1,lamppost 1,white 1
+lot 1,stretch 1,likely 1,addition 1,directly 1,start 1,indicted 1,demonstrate 1,able 1,together 1,way 1,bedstand 1,article 1,called 1,long 1,passing 1,never 1,walk 1,indict 1,too 1
+camera 1,consumption 1,taker 1,needed 1,simply 1,splintered 1,spot 1,historical 1,make 1,lcd 1,overhead 1,seeing 1,let 1,commonly 1,system 1,let 1,spot 1,think 1,symbolic 1,pa 1
+beer 1,open 1,bitten 1,working 1,presence 1,cracking 1,aging 1,while 1,turn 1,face.most 1,long 1,nearby 1,base 1,chance 1,smaller 1,viewing 1,degree 1,slightly 1,good 1,confirming 1
+few 1,actually 1,illustrate 1,computer 1,whole 1,scorch 1,despicted 1,rotting 1,decaying 1,*does* 1,due 1,automatically 1,reason 1,anything 1,light 1,avoid 1,pictured 1,narrow 1,simply 1,mutliple 1
+next 1,visible 1,manipulate 1,standing 1,swallow 1,surround 1,multiple 1,up 1,again 1,short 1,size 1,think 1,water 1,kitchen 1,little 1,criterium 1,looking 1,usually 1,mean 1,least 1
+assumed 1,down 1,open 1,illustrate 1,stand 1,typeface 1,poor 1,receding 1,seem 1,recent 1,set 1,pillow 1,leg 1,come 1,size 1,formation 1,opposite 1,four-way 1,place 1,loo 1
+their 1,relate 1,swallowed 1,simply 1,later 1,actual 1,nt 1,groomed 1,seen 1,measured 1,visible 1,equal 1,earlier 1,initially 1,determine 1,however 1,away 1,resulting 1,commonly 1,traveller 1
+service 1,point 1,directly 1,down 1,involved 1,everything 1,several 1,case 1,sense 1,fresh 1,useful 1,allows 1,knowing 1,cabinet 1,bedtime 1,free 1,distinctive 1,meaning 1,many 1,top 1
+use 1,dont 1,done 1,scene 1,getting 1,broad 1,instead 1,longer 1,decoration 1,plenty 1,already 1,many 1,falling 1,image- 1,wall 1,degree 1,really 1,avoid 1,definition 1,west 1
+intent 1,feed 1,ask 1,facility 1,anything 1,and/or 1,take 1,present 1,chip 1,moving 1,automatically 1,getting 1,even 1,pepper 1,storing 1,creating 1,happen 1,actual 1,sing 1,checked 1
+determine 1,otherwise 1,down 1,suggest 1,.. 1,back 1,clearly 1,hole 1,almost 1,meaning 1,pillow 1,definition 1,close 1,demonstrated 1,living/family 1,led 1,sight 1,downward 1,imagine 1,east 1
+one 1,bite 1,number 1,cleaning 1,actual 1,exposed 1,generally 1,yellowing 1,discolored 1,possible 1,narrow 1,suggest 1,reached 1,public 1,reside 1,notice 1,second 1,along 1,let 1,cars-they 1
+scene 1,injsing 1,consume 1,action 1,great 1,antique 1,once 1,somewhat 1,amenity 1,bulkier 1,turn 1,put 1,see 1,bunch 1,think 1,foreground 1,surrounding 1,perpendicular 1,completely 1,carry 1
+presence 1,biting 1,raised 1,done 1,prepping 1,gife 1,decaying 1,understand 1,rust 1,product 1,keep 1,accessed 1,located 1,version 1,larger 1,satisfy 1,jump 1,however 1,attention 1,simply 1
+already 1,ramp 1,otherwise 1,thing 1,hand 1,either 1,uncared 1,cloth 1,piece 1,digital 1,commonly 1,key 1,blue 1,space 1,contining 1,pictured 1,sign 1,continuing 1,screen 1,indict 1
+first 1,many 1,context 1,motion 1,included 1,indication 1,grown 1,line 1,meet 1,opposite 1,socket 1,possibility 1,sign 1,appear 1,anything 1,connected 1,back 1,driver 1,confusion 1,down 1
+swallow 1,working 1,thing 1,keep 1,thu 1,stylle 1,wherea 1,nobody 1,scream 1,utilitarian 1,plug 1,nicely 1,positioned 1,really 1,drum 1,probably 1,hard 1,found 1,thoroughfare 1,obviou 1
+military 1,actual 1,leaving 1,recognized 1,anywhere 1,lost 1,way 1,oldnes 1,dirty 1,same 1,optional 1,knowing 1,hard 1,nightstsand 1,undetermined 1,safety 1,opposing 1,foreground 1,unsure 1,nearby 1
+cafeterium 1,great 1,commonly 1,heating 1,everything 1,crisp 1,say 1,that 1,abrupt 1,bulky 1,strong 1,pictured 1,lam 1,odd 1,come 1,written 1,wood 1,correct 1,technically 1,usually 1
+motion 1,put 1,many 1,taking 1,looking 1,furniture 1,evidence 1,sort 1,future 1,suggest 1,found 1,then 1,old 1,close 1,depend 1,include 1,physically 1,probably 1,probably 1,due 1
+round 1,feeding 1,great 1,involved 1,currently 1,burnt 1,surface 1,really 1,modern/new 1,smallest 1,water 1,enough 1,upper 1,expect 1,entertain 1,looking 1,upper 1,hill 1,determined 1,place 1
+working 1,explore 1,social 1,ate 1,attempting 1,indicative 1,near 1,scheme 1,shower 1,plip 1,knowing 1,recognizable 1,morning 1,computer 1,table/stand 1,overlap 1,small 1,written 1,looking 1,turn 1
+great 1,mule 1,plat 1,definition 1,appear 1,elapsed 1,lush 1,balck 1,made 1,damaged 1,filled 1,reached 1,level 1,likely 1,use 1,currently 1,section 1,include 1,intersected 1,allows 1
+definition 1,subject 1,checked 1,sink 1,said 1,showing 1,unusual 1,low 1,present 1,information 1,falling 1,computer 1,easily 1,applicable 1,screen 1,clearing 1,t 1,looking 1,appear 1,needing 1
+celebration 1,never 1,put 1,operating 1,really 1,big 1,chip 1,width 1,believe 1,absolute 1,probably 1,second 1,headboard 1,identify 1,leg 1,intersected 1,continue 1,overlap 1,thu 1,am 1
+downward 1,utensil 1,water 1,met 1,special 1,knob 1,disaray 1,absence 1,line 1,awhile 1,beige 1,located 1,color 1,shaker 1,probably 1,driving 1,pavement 1,approch 1,even 1,actual 1
+prepared 1,filled 1,use 1,commercial 1,recognizable 1,board 1,boat.. 1,etc 1,yellowing 1,made 1,appear 1,past 1,one 1,seating 1,apiece 1,thu 1,signal 1,currently 1,really 1,come 1
+active 1,order 1,never 1,utensil 1,happen 1,old-fashioned 1,layer 1,termed 1,varying 1,sense 1,even 1,hard 1,fall 1,meal 1,enough 1,even 1,contradict 1,fact 1,home 1,path 1
+demonstrate 1,probably 1,leg 1,opening 1,individual 1,human 1,beautiful 1,addition 1,specifically 1,purchased 1,past 1,side 1,acces 1,brick 1,section 1,really 1,did 1,lead 1,perspective 1,let 1
+pate 1,action 1,notice 1,nourishment 1,second 1,shape 1,dropped 1,sharper 1,everywhere 1,qwerty 1,illuminate 1,laying 1,ye 1,either 1,given 1,parking 1,lond 1,thu 1,imply 1,hung 1
+digging 1,unable 1,body 1,body 1,past 1,watch-face 1,clear 1,checked 1,part 1,telephone 1,available 1,strictly 1,pretty 1,specific 1,really 1,sight 1,silver 1,out 1,idea 1,here 1
+body 1,defined 1,s/he 1,meal 1,doing 1,left 1,similar 1,yellowed 1,visual 1,moved 1,referred 1,necessary 1,location 1,morning 1,situated 1,traveling 1,join 1,entering 1,signify 1,more 1
+plates.some 1,tend 1,knife 1,knife 1,determine 1,edge 1,piece 1,rely 1,change 1,shape 1,indication 1,using 1,setting 1,normally 1,close 1,imply 1,possible 1,imply 1,set 1,plu 1
+filled 1,attempting 1,then 1,puttting 1,signify 1,ragged 1,normally 1,belt 1,clue 1,then 1,stuff 1,foot 1,window 1,wooden 1,video 1,impede 1,stop 1,gues 1,assume 1,refer 1
+order 1,nourishment 1,finger 1,probably 1,right 1,i 1,abrupt 1,bra 1,took 1,razr 1,someone 1,need 1,to 1,placesetting 1,gaming 1,sigh 1,showing 1,direct 1,implication 1,technically 1
+indication 1,nibbling 1,currently 1,laid 1,requirement 1,older 1,determined 1,kind 1,discoloration 1,compare 1,calling 1,putting 1,had 1,bigger 1,often 1,human 1,big 1,series 1,pavement 1,crosswalk 1
+determined 1,living 1,giving 1,everything 1,chew 1,hand 1,remain 1,grain 1,mostly 1,battered 1,identifying 1,resting 1,personal 1,hall 1,round 1,ye 1,junction 1,often 1,make 1,busier 1
+gentleman 1,category 1,and/or 1,looking 1,plan 1,anymore 1,placed 1,marker 1,relic 1,display 1,helpful 1,ye 1,alway 1,cushion 1,someone 1,view 1,steel 1,signify 1,ther 1,connecting 1
+surrounded 1,really 1,thu 1,uniform 1,round 1,technology 1,ruined 1,least 1,describe 1,represented 1,necessary 1,good 1,ha 1,putting 1,normally 1,sidewalk 1,roadway 1,upper 1,possibly 1,looking 1
+large 1,cold 1,out 1,away 1,grab 1,while 1,focu 1,one 1,door 1,piece 1,easily 1,first 1,find 1,early 1,name 1,become 1,rectangle 1,precaution 1,likely 1,diverge 1
+saucer 1,constitute 1,chicken 1,dial 1,found 1,reddish 1,appearance 1,first 1,type 1,making 1,handy 1,ifyou 1,human 1,choice 1,maybe 1,continue 1,main 1,become 1,possible 1,overlap 1
+best 1,alive 1,close 1,large 1,small 1,dicolored 1,needed 1,think 1,length 1,deprecated 1,using 1,black 1,sleep 1,none 1,height 1,pavement 1,entryway 1,continue 1,confirmation 1,+ 1
+event 1,idea 1,second 1,close 1,porou 1,somethinig 1,originally 1,slightly 1,taken 1,replica 1,fall 1,only 1,shape 1,big 1,front 1,yield 1,one 1,signal 1,roadway 1,bottom 1
+midst 1,hard 1,constitute 1,entering 1,item 1,painted 1,characteristic 1,symbolize 1,passed 1,appearance 1,putting 1,color 1,human 1,sitting 1,choice 1,laying 1,ground 1,called 1,pay 1,appear 1
+robot 1,often 1,alive 1,doubt 1,presented 1,life 1,stripped 1,judging 1,camera 1,inferior 1,possibly 1,mattress 1,sleep 1,around 1,far 1,fully 1,bisection 1,easily 1,location 1,setup 1
+expect 1,square 1,people 1,go 1,look 1,judging 1,rugged 1,usually 1,depicted 1,reddish 1,dark 1,location 1,shape 1,handle 1,sitting 1,level 1,human 1,not 1,backround 1,further 1
+likely 1,view 1,signify 1,filled 1,condition 1,combined 1,past 1,length 1,next 1,word 1,choice 1,sharing 1,acces 1,pretty 1,sit 1,asphalt 1,elevated 1,made 1,state 1,entering 1
+gues 1,saltblock 1,lifted 1,physically 1,using 1,much 1,present 1,thing 1,stark 1,prehistoric 1,watch 1,personal 1,resting 1,location 1,instrument 1,decide 1,intermingled 1,dark 1,presence 1,traveling 1
+continual 1,contain 1,upper 1,work 1,foot 1,addition 1,considerable 1,army 1,there 1,none 1,very 1,fit 1,ye 1,black 1,actually 1,choice 1,feature 1,choice 1,explain 1,imply 1
+seasoning 1,indication 1,meal 1,requirement 1,satisfied 1,otherwise 1,pain 1,created 1,desk 1,case 1,get 1,knowledge 1,pretty 1,cup 1,equipment 1,possible 1,yea 1,possible 1,located 1,carefully 1
+people 1,signal 1,told 1,side 1,possible 1,decayed 1,given 1,colored 1,addition 1,present 1,indicating 1,perfect 1,location 1,depend 1,indicator 1,viewpoint 1,spaced 1,big 1,unable 1,hard 1
+set 1,wooden 1,small 1,steal 1,ye 1,termed 1,hole 1,great 1,.. 1,sign 1,pretty 1,find 1,setting 1,ground 1,indicate 1,above 1,think 1,very 1,apartment 1,mind 1
+enjoy 1,like 1,common 1,circular 1,showing 1,many 1,sustained 1,definition 1,moderinization 1,inventing 1,chest 1,dimmed 1,window 1,clock 1,chair 1,good 1,spaced 1,get 1,bunch 1,mean 1
+out 1,necessary 1,stopped 1,contain 1,icing 1,installation 1,tattered 1,toned 1,sheet 1,beat 1,had 1,shape 1,NEXT 1,human 1,identify 1,pedestrain 1,think 1,above 1,intersecting-broadway 1,traffic/car 1
+uniformed 1,edible 1,experience 1,either 1,meant 1,reaction 1,part 1,change 1,dated 1,varying 1,personal 1,withing 1,had 1,silverware 1,not 1,indicating 1,ground 1,crash 1,still 1,stopped 1
+served 1,bit 1,facing 1,prepping 1,assist 1,key 1,landscaping 1,active 1,neat 1,external 1,fit 1,consider 1,conclude 1,help 1,consider 1,a.k.a 1,bisection 1,then 1,human 1,oncoming 1
+common 1,not 1,licking 1,shape 1,merely 1,oxidation 1,scenery 1,recent 1,electronic 1,t 1,knowledge 1,serving 1,personal 1,represent 1,bedroom-like 1,entryway 1,human 1,split 1,shape 1,fully 1
+stopped 1,proces 1,signal 1,laying 1,chewing 1,ability 1,neglected 1,le 1,rarely 1,involf 1,based 1,serving 1,alway 1,help 1,consider 1,choose 1,elevated 1,entryway 1,none 1,north 1
+indicate 1,possibly 1,did 1,like 1,going 1,notice 1,fade 1,reason 1,table 1,technological 1,dining 1,perfect 1,due 1,represent 1,bedroom-like 1,actually 1,feature 1,choose 1,top 1,level 1
+insert 1,borderline 1,called 1,necessary 1,involf 1,probably 1,creation 1,earlier 1,marker 1,oldnes 1,find 1,find 1,find 1,cup 1,actually 1,conclude 1,yea 1,indicate 1,pointed 1,name 1
+bringing 1,awhile 1,them.. 1,gray 1,blue 1,tend 1,hue 1,common 1,right 1,definition 1,identify 1,dimmed 1,human 1,depend 1,equipment 1,ground 1,spaced 1,only 1,concept 1,indeed 1
+drinking 1,survival 1,background 1,orifice 1,unable 1,stuff 1,therefore 1,cause 1,down 1,mostly 1,shape 1,shape 1,sleep 1,ground 1,indicator 1,still 1,think 1,cross-like 1,now 1,above 1
+utencil 1,similar 1,foood 1,furniture 1,based 1,bad 1,tell 1,attire 1,young 1,complete 1,being 1,withing 1,shape 1,clock 1,indicate 1,vechicle 1,,sky 1,pointed 1,bit 1
+touching 1,therefore 1,touching 1,bringing 1,cut 1,artist 1,i 1,above 1,relate 1,sort 1,whoever 1,consider 1,,human 1,chair 1,nevertheles 1,,onward 1,concept 1,using 1
+joint 1,brown 1,proces 1,now 1,certainly 1,scene 1,white 1,photograph.the 1,point 1,flexible 1,help 1,serving 1,,Dining 1,identify 1,east-west 1,,asphalt 1,now 1,decide 1
+visibly 1,immature 1,scene 1,background 1,still 1,proces 1,judging 1,enough 1,smoothnes 1,call 1,being 1,,,silverware 1,consider 1,ended 1,,based 1,pointed 1,know 1
+ye 1,bud 1,implied 1,touching 1,entity 1,photograph 1,too 1,current 1,own 1,trend 1,whoever 1,,,help 1,bedroom-like 1,connect 1,,one 1,concept 1,choice 1
+around 1,wood 1,familiar 1,spoon 1,silverware 1,beat 1,natural 1,gentleman 1,tattered 1,quickly 1,help 1,,,represent 1,,converge 1,,ground 1,now 1,possible 1
+good 1,licking/eating 1,round 1,possible 1,displayed 1,circle 1,depicted 1,wrinkly 1,first 1,due 1,dining 1,,,,,yea 1,,find 1,Even 1,very 1
+photographed 1,involf 1,spillage 1,material 1,indicating 1,pretty 1,discoloration 1,item 1,wired 1,rellevant 1,perfect 1,,,,,just 1,,human 1,,adjacent 1
+indicating 1,bench 1,going 1,showing 1,pointed 1,shinines 1,due 1,detect 1,usually 1,top 1,glas 1,,,,,help 1,,identify 1,,designate 1
+main 1,young 1,somewhere 1,big 1,being 1,only 1,top 1,thu 1,place 1,capable 1,find 1,,,,,just 1,,telling 1,,round 1
+indeed 1,presence 1,cup 1,over 1,just 1,state 1,semi-dry 1,best 1,s 1,working 1,shape 1,,,,,help 1,,yea 1,,entryway 1
+stabbing 1,depend 1,indicator 1,conveying 1,being 1,slow 1,necessarily 1,event 1,example 1,better 1,whoever 1,,,,,converge 1,,help 1,,easy 1
+instrument 1,trying 1,pick 1,wearing 1,just 1,indicator 1,use 1,so.it 1,inspired 1,illustrate 1,help 1,,,,,choose 1,,yea 1,,choose 1
+actually 1,certainly 1,chewed 1,ingredient 1,still 1,find 1,existed 1,second 1,dusty 1,kind 1,Perfect 1,,,,,yea 1,,help 1,,demonstrate 1
+dinning 1,ground 1,chair 1,round 1,foot 1,bright 1,caring 1,sign 1,created 1,open 1,,,,,,asphalt 1,,Clearly 1,,presence 1
+menu 1,still 1,threir 1,enjoying 1,entity 1,scorched 1,illustrate 1,elderly 1,great 1,rarely 1,,,,,,help 1,,sky 1,,notice 1
+food-it 1,flavor 1,not 1,touched 1,silverware 1,splintering 1,period 1,consistent 1,care 1,thick 1,,,,,,,,onward 1,,fit 1
+certainly 1,identify 1,mainly 1,chewing 1,displayed 1,impression 1,open 1,appearance 1,newish 1,down 1,,,,,,,,asphalt 1,,ground 1
+perfect 1,supplement 1,able 1,argued 1,indicating 1,definitely 1,owner 1,yellowish 1,manufacturing 1,period 1,,,,,,,,based 1,,corner 1
+bunch 1,morsel 1,help 1,waiting 1,pointed 1,clear 1,wrinkly 1,often 1,headboard 1,visible 1,,,,,,,,one 1,,human 1
+yet 1,yea 1,concept 1,swallowing 1,being 1,device 1,beaten 1,because 1,display 1,useful 1,,,,,,,,ground 1,,identify 1
+identify 1,represent 1,event 1,dining 1,,eaten 1,simply 1,too 1,untouched 1,primitive 1,,,,,,,,find 1,,aside 1
+bring 1,morsel 1,event 1,gues 1,,opposite 1,nothing 1,mean 1,human 1,repair 1,,,,,,,,human 1,,definitive 1
+seen 1,yea 1,Plate 1,identify 1,,note 1,young 1,20th 1,manufactured 1,retail 1,,,,,,,,identify 1,,move 1
+silverware 1,represent 1,pick 1,serving 1,,tarnish 1,considering 1,decayed 1,missing 1,usually 1,,,,,,,,yea 1,,pointed 1
+satisfied 1,identify 1,chewed 1,isnt 1,,relatively 1,visibly 1,out 1,run 1,suggestion 1,,,,,,,,help 1,,represent 1
+silverware 1,supplement 1,chair 1,purely 1,,saw 1,sky 1,refer 1,cord 1,dated 1,,,,,,,,,,pointed 1
+satisfied 1,confirm 1,threir 1,soon 1,,seen 1,term 1,guy 1,bought 1,nigh-indestructible 1,,,,,,,,,,represent 1
+certainly 1,morsel 1,silverware 1,personin 1,,old.the 1,unclear 1,popular 1,dosent 1,amount 1,,,,,,,,,,human 1
+bunch 1,yea 1,able 1,purely 1,,victorian 1,los 1,blurry 1,determined 1,experience 1,,,,,,,,,,identify 1
+yet 1,represent 1,help 1,soon 1,,gotten 1,alga 1,indication 1,rotten 1,changed 1,,,,,,,,,,definitive 1
+identify 1,,concept 1,personin 1,,kind 1,unused 1,bad 1,content 1,comparison 1,,,,,,,,,,move 1
+bring 1,,event 1,serving 1,,took 1,alot 1,anymore 1,uniform 1,stage 1,,,,,,,,,,pointed 1
+seen 1,,,isnt 1,,hundred 1,trailer 1,capability 1,slick 1,come 1,,,,,,,,,,represent 1
+silverware 1,,,purely 1,,passed 1,display 1,identified 1,wrinkly 1,along 1,,,,,,,,,,
+satisfied 1,,,soon 1,,plastic 1,termed 1,classified 1,bedding 1,path 1,,,,,,,,,,
+out 1,,,personin 1,,top 1,bring 1,did 1,opaque 1,ask 1,,,,,,,,,,
+,,,Living 1,,necessarily 1,both 1,grey 1,closet 1,verging 1,,,,,,,,,,
+,,,,,impossible 1,extreme 1,crisp 1,given 1,consept 1,,,,,,,,,,
+,,,,,warped 1,change 1,gray 1,even 1,fairly 1,,,,,,,,,,
+,,,,,number 1,quite 1,stamp 1,out 1,antiquated 1,,,,,,,,,,
+,,,,,feel 1,key 1,fad 1,rough 1,standard 1,,,,,,,,,,
+,,,,,fallen 1,let 1,nicely 1,year 1,however 1,,,,,,,,,,
+,,,,,perhap 1,disappeared 1,number 1,convey 1,aged 1,,,,,,,,,,
+,,,,,put 1,however 1,possible 1,cue 1,prior 1,,,,,,,,,,
+,,,,,completely 1,component 1,material 1,rusty 1,abrupt 1,,,,,,,,,,
+,,,,,dirt 1,full 1,hint 1,constitute 1,missing 1,,,,,,,,,,
+,,,,,suggesting 1,foreground 1,reveal 1,back 1,either 1,,,,,,,,,,
+,,,,,looking 1,clas 1,definitive 1,hard 1,soem 1,,,,,,,,,,
+,,,,,furthermore 1,endured 1,good 1,house 1,size 1,,,,,,,,,,
+,,,,,really 1,suggesting 1,then 1,absolutely 1,version 1,,,,,,,,,,
+,,,,,substantially 1,toll 1,take 1,fairly 1,outside 1,,,,,,,,,,
+,,,,,clockwork 1,absolute 1,indicating 1,replication 1,existed 1,,,,,,,,,,
+,,,,,torch 1,aground 1,hairline 1,shabby 1,uniform 1,,,,,,,,,,
+,,,,,deteriorated 1,everything 1,easy 1,unexpected 1,currently 1,,,,,,,,,,
+,,,,,pealing 1,otherwise 1,had 1,interruption 1,away 1,,,,,,,,,,
+,,,,,classified 1,dirt 1,old-fashioned 1,antique 1,bottom 1,,,,,,,,,,
+,,,,,term 1,dilapidated 1,based 1,round 1,evolf 1,,,,,,,,,,
+,,,,,easily 1,scuffed 1,cut 1,soft 1,dial 1,,,,,,,,,,
+,,,,,now 1,located 1,side-burn 1,assume 1,capability 1,,,,,,,,,,
+,,,,,front 1,discarded 1,yet 1,identify 1,category 1,,,,,,,,,,
+,,,,,cutting 1,even 1,still 1,common 1,phoned 1,,,,,,,,,,
+,,,,,underneath 1,turning 1,degraded 1,bad 1,nub 1,,,,,,,,,,
+,,,,,unusable 1,id 1,existence 1,dingy 1,progress 1,,,,,,,,,,
+,,,,,material 1,begun 1,go 1,theme 1,variety 1,,,,,,,,,,
+,,,,,good 1,growth 1,skin 1,generally 1,invention 1,,,,,,,,,,
+,,,,,then 1,carry 1,distant 1,called 1,relative/comparative 1,,,,,,,,,,
+,,,,,minute 1,anchored 1,seen 1,frayed 1,gues 1,,,,,,,,,,
+,,,,,actually 1,feel 1,mid 1,reflecting 1,idea 1,,,,,,,,,,
+,,,,,torn 1,hard 1,none 1,difference 1,generally 1,,,,,,,,,,
+,,,,,decay 1,exposed 1,haircut 1,immediately 1,often 1,,,,,,,,,,
+,,,,,perfect 1,fair 1,newer 1,complete 1,black 1,,,,,,,,,,
+,,,,,soot 1,often 1,otherwise 1,none 1,youngest 1,,,,,,,,,,
+,,,,,typical 1,revealing 1,represent 1,sitting 1,become 1,,,,,,,,,,
+,,,,,deterioration 1,mean 1,otherwise 1,definitive 1,indication 1,,,,,,,,,,
+,,,,,element 1,eroding 1,represent 1,lighted 1,candy 1,,,,,,,,,,
+,,,,,light 1,beneath 1,yet 1,include 1,identified 1,,,,,,,,,,
+,,,,,such 1,found 1,still 1,rotting 1,classified 1,,,,,,,,,,
+,,,,,lengthy 1,contain 1,degraded 1,advanced 1,rusty 1,,,,,,,,,,
+,,,,,deteriorate 1,source 1,existence 1,black 1,presented 1,,,,,,,,,,
+,,,,,feature 1,indication 1,go 1,enough 1,bar 1,,,,,,,,,,
+,,,,,sitting 1,bad 1,skin 1,help 1,motorola 1,,,,,,,,,,
+,,,,,end 1,large 1,distant 1,themed 1,matched 1,,,,,,,,,,
+,,,,,want 1,previou 1,mid 1,decayed 1,flip-phone 1,,,,,,,,,,
+,,,,,chip 1,laying 1,old.The 1,now 1,budget 1,,,,,,,,,,
+,,,,,lock 1,level 1,haircut 1,perfect 1,not 1,,,,,,,,,,
+,,,,,indicated 1,evenly 1,otherwise 1,platform 1,outlet 1,,,,,,,,,,
+,,,,,bent 1,deterioration 1,represent 1,still 1,unblemished 1,,,,,,,,,,
+,,,,,battered 1,sunk 1,,corner 1,built 1,,,,,,,,,,
+,,,,,example 1,touched 1,,gues 1,scuff 1,,,,,,,,,,
+,,,,,remain 1,bit 1,,vacuum 1,around 1,,,,,,,,,,
+,,,,,f 1,judge 1,,radio 1,good 1,,,,,,,,,,
+,,,,,hole 1,fall 1,,rusted 1,touchscreen 1,,,,,,,,,,
+,,,,,particular 1,old.that 1,,shape 1,interacting 1,,,,,,,,,,
+,,,,,everywhere 1,rotted 1,,bring 1,pilot 1,,,,,,,,,,
+,,,,,rusting/deterioration 1,break 1,,yellow 1,antique 1,,,,,,,,,,
+,,,,,apparent 1,likely 1,,styled 1,evidenced 1,,,,,,,,,,
+,,,,,glas 1,awhile 1,,dingy/well 1,crack 1,,,,,,,,,,
+,,,,,flat 1,possible 1,,woodwork 1,pretty 1,,,,,,,,,,
+,,,,,scratched 1,orangey 1,,modern-looking 1,production 1,,,,,,,,,,
+,,,,,more 1,usage 1,,chipped 1,released 1,,,,,,,,,,
+,,,,,tell 1,disfigured 1,,modern-looking 1,late 1,,,,,,,,,,
+,,,,,type 1,passed 1,,chipped 1,knew 1,,,,,,,,,,
+,,,,,camera 1,orange 1,,styled 1,character 1,,,,,,,,,,
+,,,,,rustic 1,crack 1,,dingy/well 1,pres 1,,,,,,,,,,
+,,,,,next 1,window 1,,woodwork 1,manufactured 1,,,,,,,,,,
+,,,,,working 1,deteriorated 1,,modern-looking 1,based 1,,,,,,,,,,
+,,,,,use 1,environment 1,,chipped 1,speed 1,,,,,,,,,,
+,,,,,useful 1,decayed 1,,,faster 1,,,,,,,,,,
+,,,,,narrow 1,style 1,,,human 1,,,,,,,,,,
+,,,,,weather-beaten 1,letting 1,,,palm 1,,,,,,,,,,
+,,,,,inspired 1,ground 1,,,displayed 1,,,,,,,,,,
+,,,,,distressed 1,rot 1,,,move 1,,,,,,,,,,
+,,,,,colored 1,predominantly 1,,,nowaday 1,,,,,,,,,,
+,,,,,casing 1,rough 1,,,they 1,,,,,,,,,,
+,,,,,dry 1,earth 1,,,move 1,,,,,,,,,,
+,,,,,scrapped 1,gues 1,,,nowaday 1,,,,,,,,,,
+,,,,,let 1,human 1,,,they 1,,,,,,,,,,
+,,,,,water 1,bright 1,,,represented 1,,,,,,,,,,
+,,,,,splinter 1,relatively 1,,,youngest 1,,,,,,,,,,
+,,,,,revealing 1,distres 1,,,Flip 1,,,,,,,,,,
+,,,,,rotten 1,starting 1,,,Motorola 1,,,,,,,,,,
+,,,,,nonfunctioning 1,able 1,,,version 1,,,,,,,,,,
+,,,,,surrounding 1,over 1,,,uniform 1,,,,,,,,,,
+,,,,,past 1,exclusive 1,,,dial 1,,,,,,,,,,
+,,,,,tired 1,able 1,,,phoned 1,,,,,,,,,,
+,,,,,bicycle 1,over 1,,,invention 1,,,,,,,,,,
+,,,,,wooden 1,exclusive 1,,,rusty 1,,,,,,,,,,
+,,,,,outside 1,large 1,,,sign 1,,,,,,,,,,
+,,,,,gold 1,laying 1,,,trend 1,,,,,,,,,,
+,,,,,hanging 1,sunk 1,,,presented 1,,,,,,,,,,
+,,,,,lack 1,fall 1,,,bulkier 1,,,,,,,,,,
+,,,,,represent 1,Anything 1,,,Not 1,,,,,,,,,,
+,,,,,gold 1,environment 1,,,tHey 1,,,,,,,,,,
+,,,,,hanging 1,young 1,,,face.Most 1,,,,,,,,,,
+,,,,,lack 1,rot 1,,,Based 1,,,,,,,,,,
+,,,,,represent 1,tattered 1,,,,,,,,,,,,,
+,,,,,wooden 1,,,,,,,,,,,,,,
+,,,,,outside 1,,,,,,,,,,,,,,
+,,,,,gold 1,,,,,,,,,,,,,,
+,,,,,hanging 1,,,,,,,,,,,,,,
+,,,,,lack 1,,,,,,,,,,,,,,
+,,,,,represent 1,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+https://visualgenome.org/static/data/dataset/objects.json.zip
+https://visualgenome.org/static/data/dataset/attributes.json.zip
+https://visualgenome.org/static/data/dataset/relationships.json.zip
+
+https://visualgenome.org/static/data/dataset/object_synsets.json.zip
+https://visualgenome.org/static/data/dataset/attribute_synsets.json.zip
+https://visualgenome.org/static/data/dataset/relationship_synsets.json.zip
+
+https://visualgenome.org/static/data/dataset/object_alias.txt
+https://visualgenome.org/static/data/dataset/relationship_alias.txt
